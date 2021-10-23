@@ -1,0 +1,61 @@
+/* CSS files add styling rules to your content */
+
+/* This CSS selector affects the whole body of my pages */
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background: ffffff;
+}
+
+/* This selector affects all the elements with a class="menu" attribute */
+.menu {
+  background: ffffff;
+  text-align: ;
+  padding: 14px;
+}
+
+/* This selector affects all the elements INSIDE the element with
+ a class="menu" attribute  AND are li (list) elements */
+.menu li {
+  list-style: none;
+  display: inline;
+  padding: 15px;
+}
+
+/* This selector affects all the h1 heading elements */
+h1 {
+  text-align: ;
+  font-size: 36px;
+  color: ;
+}
+
+/* This selector affects all the h2 heading elements */
+h2 {
+  text-align: ;
+  font-size: 14px;
+  color: ;
+}
+
+/* This selector affects all the p paragraph elements */
+p {
+  color: ;
+}
+
+/* This selector affects all the p2 paragraph elements */
+p2 {
+}
+
+/* This selector affects all the elements with the id="home-list" */
+#home-list {
+  color: ;
+}
+
+/* This selector affects all the elements with the id="hobbies-list" */
+#hobbies-list {
+  color: ;
+}
+
+/* This selector affects all the elements with the id="hobbies-list" */
+#tutorial-list {
+  color: ;
+}
